@@ -2,7 +2,7 @@
 Kali Sources For Easy Setup
 # Downloand&Run
 ```
-$ git clone https://github.com/lastpingu/kalisources.git
+$ git clone https://github.com/xRektFTW/R3ktHackTool.git
 $ cd kalisources
 $ chmod +x kalisources
 $ sudo ./kalisources
